@@ -6,7 +6,9 @@ LIRI will is command line node app that takes in commands and gives you back dat
 
 ####Commands
 Twitter: my-tweets + username
+
 OMDB: movie-this + movie
+
 Spotify: spotify-this-song + song name
 
 ####Technology
