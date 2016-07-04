@@ -2,7 +2,7 @@
 
 ####Description
 
-LIRI is a fun little command line node app that takes in commands and gives you back data. Also, maintains a log of commands given.
+LIRI is a fun little command line node app that takes in commands and gives you back data and maintains a log of the commands given.
 
 ####Commands
 Twitter: my-tweets + username
