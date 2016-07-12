@@ -2,7 +2,14 @@
 
 ####Description
 
-LIRI will is command line node app that takes in parameters and gives you back data.
+LIRI is a fun little command line node app that takes in commands and gives you back data and maintains a log of the commands given.
+
+####Commands
+Twitter: my-tweets + username
+
+OMDB: movie-this + movie
+
+Spotify: spotify-this-song + song name
 
 ####Technology
 
