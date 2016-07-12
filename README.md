@@ -18,3 +18,5 @@ Spotify: spotify-this-song + song name
 * [twitter](https://www.npmjs.com/package/twitter)
 * [spotify](https://www.npmjs.com/package/spotify)
 * [OMDB](http://www.omdbapi.com/)
+
+![alt tag](https://github.com/christiancasal/liri/blob/master/images/liri0.png)
